@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oladimeji Ojewunmi</h1>
+<h1 align="center">Hi 👋, I'm Dimeji Ojewunmi</h1>
 <h3 align="center">Cloud/DevOps/SRE Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJmib_NM6aTaO8XiB2FAD7j7620N9ShLMrQhI7WywucVwOOgARp36SDRT94Rls5KiFcE&usqp=CAU">
 
