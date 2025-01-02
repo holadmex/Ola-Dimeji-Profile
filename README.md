@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/dmex_philip" target="blank"><img src="https://img.shields.io/twitter/follow/dmex_philip?logo=twitter&style=for-the-badge" alt="dmex_philip" /></a> </p>
 
-- 📝 I regularly write articles on [Medium.com](Medium.com)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ojewumidimeji)
+- 📝 I regularly write articles on [dev.to](https://dev.to/dimeji_ojewunmi_5e27256)
 
 - 💬 Ask me about **Cloud/DevOps/SRE**
 
